@@ -2,18 +2,23 @@ Name of Quantlet: 'localpoly'
 
 Published in: 'MANDATORY!'
 
-Description: 'MANDATORY!'
+Description: 'This package uses Local Polynomial Regression to create a fit to the data. 
+The model conveniently also estimates the first and second derivative of the fit.'
 
 Keywords: 'MANDATORY! You need at least 5 keywords' 
 
-Author: 'MANDATORY'
+Author: 'Franziska Wehrmann'
 
 See also: 'optional: listing related Quantlets or Github code'
 
-Submitted:  'optional: e.g. 01. Jan 2019, John Doe'
+Submitted:  '11. May 2021'
 
 Datafile: 'optional: for your data sets - delete if not used'
 
 Input: 'optional'
 
 Output:  'optional'
+
+Additional Info: 
+- Please note, this is a fork of a original package as of 2021-05-11, the original can be found here  https://github.com/franwe/localpoly
+- The PyPi documentation can be found under this link https://localpoly.readthedocs.io/en/latest/'
