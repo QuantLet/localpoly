@@ -1,23 +1,22 @@
 Name of Quantlet: 'localpoly'
 
-Published in: 'MANDATORY!'
+Published in: 'Trading Strategies for Bitcoin Options using State Price Densities (Master Thesis)'
 
 Description: 'This package uses Local Polynomial Regression to create a fit to the data. 
-The model conveniently also estimates the first and second derivative of the fit.'
+The model conveniently also estimates the first and second derivative of the fit. 
+A Cross Validation finds the optimal bandwdith for the fit in case it is unknown.'
 
-Keywords: 'MANDATORY! You need at least 5 keywords' 
+Keywords: 'Local Polynomial Regression, Local Polynomial Estimation, locpol, Fit, Fitting, Taylor Expansion' 
 
 Author: 'Franziska Wehrmann'
 
-See also: 'optional: listing related Quantlets or Github code'
+See also: 'https://github.com/franwe/spd_trading'
 
 Submitted:  '11. May 2021'
 
-Datafile: 'optional: for your data sets - delete if not used'
+Input: '2D data cloud'
 
-Input: 'optional'
-
-Output:  'optional'
+Output:  'Fit and derivatives'
 
 Additional Info: 
 - Please note, this is a fork of a original package as of 2021-05-11, the original can be found here  https://github.com/franwe/localpoly
