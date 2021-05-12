@@ -1,0 +1,31 @@
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
+
+## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **localpoly** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
+
+```yaml
+
+Name of Quantlet: 'localpoly'
+
+Published in: 'Trading Strategies for Bitcoin Options using State Price Densities (Master Thesis)'
+
+Description: 'This package uses Local Polynomial Regression to create a fit to the data. 
+The model conveniently also estimates the first and second derivative of the fit. 
+A Cross Validation finds the optimal bandwdith for the fit in case it is unknown.'
+
+Keywords: 'Local Polynomial Regression, Local Polynomial Estimation, locpol, Fit, Fitting, Taylor Expansion' 
+
+Author: 'Franziska Wehrmann'
+
+See also: 'https://github.com/franwe/spd_trading'
+
+Submitted:  '11. May 2021'
+
+Input: '2D data cloud'
+
+Output:  'Fit and derivatives'
+
+Additional Info: 
+- Please note, this is a fork of a original package as of 2021-05-11, the original can be found here  https://github.com/franwe/localpoly
+- The PyPi documentation can be found under this link https://localpoly.readthedocs.io/en/latest/'
+
+```
